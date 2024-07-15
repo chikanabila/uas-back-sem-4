@@ -1,0 +1,37 @@
+[
+    {
+        "nama": "Toyota",
+        "model": "Corolla",
+        "tanggal_keluar": "2022_01_15"
+    },
+    {
+        "nama": "Honda",
+        "model": "Civic",
+        "tanggal_keluar": "2021_05_22"
+    },
+    {
+        "nama": "Ford",
+        "model": "Mustang",
+        "tanggal_keluar": "2020_11_30"
+    },
+    {
+        "nama": "Chevrolet",
+        "model": "Camaro",
+        "tanggal_keluar": "2019_07_18"
+    },
+    {
+        "nama": "Nissan",
+        "model": "Altima",
+        "tanggal_keluar": "2023_03_10"
+    },
+    {
+        "nama": "Mazda",
+        "model": "3",
+        "tanggal_keluar": "2021_09_25"
+    },
+    {
+        "nama": "Volkswagen",
+        "model": "Golf",
+        "tanggal_keluar": "2020_04_12"
+    }
+]
